@@ -1,4 +1,4 @@
-# Cathartic
+# Cathartic - [BETA]
 
 > A clean system, a clear mind.
 
