@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Cathartic
+Comment=A clean system, a clear mind.
+GenericName=PC Cleaner
+Exec=cathartic
+Icon=cathartic
+Type=Application
+Categories=Utility;
+Terminal=true
+StartupNotify=false
+Keywords=cleaner;junk;cache;duplicate;disk;storage
+X-AppImage-Version=0.1.0

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="console-application">
+  <id>io.github.cathartic</id>
+  <name>Cathartic</name>
+  <summary>Cross-platform PC cleaner — scan storage, find junk, clean with consent</summary>
+  <description>
+    <p>Cathartic helps you reclaim disk space by scanning for temporary files, browser caches, large unused files, duplicates, package manager caches, empty directories, and application remnants. Every cleanup requires your explicit approval — nothing is deleted without consent.</p>
+  </description>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <url type="homepage">https://github.com/cathartic/cathartic</url>
+  <launchable type="desktop-id">cathartic.desktop</launchable>
+  <provides>
+    <binary>cathartic</binary>
+  </provides>
+  <releases>
+    <release version="0.1.0" date="2025-01-01"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>
