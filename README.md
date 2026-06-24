@@ -1,5 +1,7 @@
 # Cathartic - [BETA]
 
+<img width="700" height="700" alt="Cathartic" src="https://github.com/user-attachments/assets/f027aa86-00fd-4794-954c-d02825b2732e" />
+
 > A clean system, a clear mind.
 
 Cathartic is a cross-platform PC cleaner that scans your storage, finds junk files, and cleans with your consent. Features a terminal UI (TUI), CLI, and GUI.
